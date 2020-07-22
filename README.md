@@ -7,5 +7,7 @@ what are code environments? Types? In the code environment, we can write the pro
 there are three main types of environment
 
 text editors
+
 Full IDE's
+
 notebook environment
